@@ -20,7 +20,7 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/anthony-mwaura-b08b69218/r#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/anthony-mwaura-b08b69218/#gh-dark-mode-only)
 &nbsp;&nbsp;
-### Technology Stack:
+### :hammer_and_wrench:Technology Stack:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
