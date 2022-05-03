@@ -27,6 +27,10 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" width="40" height="40" alt="bash"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width="40" height="40" alt="atom"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40" alt="css3"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" alt="bootstrap"/>
 </div>
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
