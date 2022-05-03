@@ -20,9 +20,16 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/anthony-mwaura-b08b69218/r#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/anthony-mwaura-b08b69218/#gh-dark-mode-only)
 &nbsp;&nbsp;
-### :hammer_and_wrench:Technology Stack:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+---
+
+### :hammer_and_wrench:Technology Stack :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" width="40" height="40" alt="bash"/>
+</div>
+
+<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
@@ -33,7 +40,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" /> -->
 
 <br/>
 
