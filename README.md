@@ -30,7 +30,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width="40" height="40" alt="atom"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40" alt="css3"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" alt="bootstrap"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="firebase"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="40" height="40" alt="flask"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" alt="git"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" alt="html5"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="java"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="js"/>
 </div>
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
