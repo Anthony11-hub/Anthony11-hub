@@ -36,7 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40" alt="css3"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="firebase"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="40" height="40" alt="flask"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" alt="git"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="jupyter"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
@@ -45,9 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" alt="react"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="anaconda"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" width="40" height="40" alt="bash"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width="40" height="40" alt="atom"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/firefox" width="40" height="40" alt="firefox"/>
 </div>
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
