@@ -28,14 +28,12 @@
 
 I am a Computer Science Student <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="30"/> from Nairobi, Kenya
 
-- 🌱 I’m currently re-learning Javascript, java, python and php 😁
+- :telescope: I’m currently re-learning Javascript, java, python and php 😁
 - 👯 I’m looking to collaborate in code projects to increase my skill level
 - 🥅 2022 Goals: Increase my programming skill through competitive programming
 - ⚡ Fun fact: I love Anime
 - 🎶 I'm a Dreamville fan, i enjoy music the likes of Jermaine Cole and Kendrick Lamar
-- 🤑 I also recently gained an interest into trading (stocks, investments, forex and crpto)
-
-## join me on PI network, and let's mine those coins to our wallets. ⛏
+- 🤑 Recently gained an interest into trading (stocks, investments, forex and crpto)
 
 ---
 
