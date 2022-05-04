@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Anthony11-hub&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -28,12 +28,11 @@
 
 I am a Computer Science Student <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="30"/> from Nairobi, Kenya
 
-- :telescope: I’m currently re-learning Javascript, java, python and php 😁
+- :telescope: Currently engaged with increasing my JS Knowledge
 - 👯 I’m looking to collaborate in code projects to increase my skill level
-- 🥅 2022 Goals: Increase my programming skill through competitive programming
-- ⚡ Fun fact: I love Anime
-- 🎶 I'm a Dreamville fan, i enjoy music the likes of Jermaine Cole and Kendrick Lamar
-- 🤑 Recently gained an interest into trading (stocks, investments, forex and crpto)
+- 🥅 2022 Goals: Increase problem solving skills at Leet Code
+- ⚡ Fun fact: I love Anime, Rap Music and Working out
+- 📈 Recently gained an interest into trading
 
 ---
 
