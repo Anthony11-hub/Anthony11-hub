@@ -12,11 +12,11 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Anthony11-hub&style=flat-square&color=blue" alt=""/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="600" height="300"/>
@@ -36,15 +36,6 @@ I am a Computer Science Student <img src="https://media.giphy.com/media/26AHONQ7
 - 🤑 I also recently gained an interest into trading (stocks, investments, forex and crpto)
 
 ## join me on PI network, and let's mine those coins to our wallets. ⛏
-
-### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/Anthony11hub#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Anthony11hub#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/anthony-mwaura-b08b69218/r#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/anthony-mwaura-b08b69218/#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 ---
 
@@ -72,22 +63,7 @@ I am a Computer Science Student <img src="https://media.giphy.com/media/26AHONQ7
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width="40" height="40" alt="atom"/>
 </div>
 
-<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+### :fire: My Stats :
 
-<br/>
-
-
----
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anthony's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anthony11-hub&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[twitter]: https://twitter.com/Anthony11hub
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/anthony-mwaura-b08b69218/
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anthony11-hub&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony11-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
