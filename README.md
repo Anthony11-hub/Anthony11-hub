@@ -1,3 +1,7 @@
+<div id="header" alighn="center">
+  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100"/>
+</div>
+
 # Hi there, I'm Anthony.👋 
 
 
