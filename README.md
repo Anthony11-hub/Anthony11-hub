@@ -28,9 +28,9 @@
 
 I am a Computer Science Student <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="30"/> from Nairobi, Kenya
 
-- :telescope: Currently engaged with increasing my JS Knowledge
+- :telescope: Currently engaged with advancing my JS Knowledge
 - 👯 I’m looking to collaborate in code projects to increase my skill level
-- 🥅 2022 Goals: Increase problem solving skills at Leet Code
+- 🥅 2022 Goals: Engage in problem solving skills at Leet Code
 - ⚡ Fun fact: I love Anime, Rap Music and Working out
 - 📈 Recently gained an interest into trading
 
