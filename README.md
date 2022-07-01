@@ -33,6 +33,7 @@ I am a Computer Science Student <img src="https://media.giphy.com/media/26AHONQ7
 - 🥅 2022 Goals: Engage in problem solving skills at Leet Code
 - ⚡ Fun fact: I love Anime, Rap Music and Working out
 - 📈 Recently gained an interest into trading
+- :speech_balloon: You can reach me at Gmail tonycomputers6@gmail.com
 
 ---
 
