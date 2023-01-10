@@ -10,6 +10,7 @@
     <a href="https://twitter.com/Anthony11hub">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    [![wakatime](https://wakatime.com/badge/user/8d976067-8545-4562-9c29-262e864a5427.svg)](https://wakatime.com/@8d976067-8545-4562-9c29-262e864a5427)
   </div>
   <img src="https://komarev.com/ghpvc/?username=Anthony11-hub&style=flat-square&color=blue" alt=""/>
   <h1>
