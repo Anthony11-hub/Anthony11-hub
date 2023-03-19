@@ -20,14 +20,6 @@
   </h1>
 </div>
 
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="600" height="300"/>
-</div> -->
-
-<!-- [![github](https://img.shields.io/github/followers/Anthony11-hub?logo=github&style=plastic)](https://github.com/Anthony11-hub?tab=followers) -->
-
----
-
 ### :man_technologist: About Me:
 I'm a software developer currently finishing my degree in Computer Science at a credited university in Kenya. I'm passionate about building software solutions that solve real-world problems and help make people's lives easier.
 
