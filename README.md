@@ -75,11 +75,11 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 ### :wrench: Tools :
 
 ![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/Atom-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/Git-orange?logo=git&logoColor=4666ff&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-8d8cdf?logo=linux&logoColor=4666ff&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-grey?logo=git&logoColor=orange&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-white?logo=jupyter&logoColor=orange&style=for-the-badge)
+![Anaconda](https://img.shields.io/badge/Anaconda-white?logo=anaconda&logoColor=green&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-black?logo=visualstudiocode&logoColor=orange&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
 
 <div>
@@ -95,18 +95,20 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 </div>
 
 ### :fire: My Stats :
-
-<p align="center">
+<div>
+  <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="495px" src="https://github-readme-stats.vercel.app/api?username=Anthony11-hub&show_icons=true&title_color=FF4747&icon_color=00B0FF&text_color=C9D1D9&border_color=151B26&bg_color=0B0E14&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&cache_seconds=7200&hide=contribs" alt="GitHub Stats">
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Anthony11-hub&background=0B0E14&border=151B26&stroke=151B26&dates=3B4C6B&sideNums=00B0FF&sideLabels=00B0FF&currStreakNum=C9D1D9&ring=FF4747&fire=FF4747&currStreakLabel=FF4747" alt="Olivér's GitHub Streak">
   </a>
 </p>
+</div>
+
 
 
 Thanks for checking out my profile! I look forward to connecting with you and collaborating on exciting software projects.
