@@ -29,16 +29,25 @@
 ---
 
 ### :man_technologist: About Me:
+I'm a software developer currently finishing my degree in Computer Science at a credited university in Kenya. I'm passionate about building software solutions that solve real-world problems and help make people's lives easier.
 
-I am a Computer Science Student <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="30"/> from Nairobi, Kenya
+- :telescope: # What I'm working on
+Currently, I'm working on a project to develop a web application that helps students gain access to books more easily and efficiently while enabling librarians to manage the book inventory more efficiently. I'm also exploring various technologies and frameworks such as React, Node.js, and MongoDB to improve my skills as a developer.
 
-- :telescope: Currently engaged with advancing my JS Knowledge
-- 👯 I’m looking to collaborate in code projects to increase my skill level
-- 🥅 2023 Goals: Pursuing gigs to learn more about tech
-- ⚡ Fun fact: I love Anime, Rap Music and Working out
-- :speech_balloon: You can reach me at Gmail tonycomputers6@gmail.com
+- :seedling: # What I'm learning 
+As a software developer, I believe in continuous learning and improvement. Currently, I'm learning more about machine learning and artificial intelligence to incorporate these technologies into my future projects. I'm also taking courses in cybersecurity to improve my understanding of security best practices.
 
----
+- :speech_balloon: # Ask me about
+If you have any questions about my projects, my experience, or my development philosophy, feel free to ask me! I'm always happy to chat about software development and technology in general.
+
+- :email: # How to reach me
+You can reach me through my email at tonycomputers6@gmail.com. You can also connect with me on twitter @Anthony11hub, where I share updates on my projects and share interesting articles on software development.
+
+- :zap: # Fun Fact
+When I'm not coding, I love to play call of duty mobile, watch Anime and explore new hiking trails. I believe in maintaining a healthy work-life balance to ensure maximum productivity and creativity.
+
+Thanks for checking out my profile! I look forward to connecting with you and collaborating on exciting software projects.
+
 
 ### :hammer_and_wrench:Technology Stack :
 
