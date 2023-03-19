@@ -24,7 +24,7 @@
   <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="600" height="300"/>
 </div> -->
 
-[![github](https://img.shields.io/github/followers/Anthony11-hub?logo=github&style=plastic)](https://github.com/Anthony11-hub?tab=followers)
+<!-- [![github](https://img.shields.io/github/followers/Anthony11-hub?logo=github&style=plastic)](https://github.com/Anthony11-hub?tab=followers) -->
 
 ---
 
