@@ -34,19 +34,19 @@ I'm a software developer currently finishing my degree in Computer Science at a 
 ### :telescope: What I'm working on
 Currently, I'm working on a project to develop a web application that helps students gain access to books more easily and efficiently while enabling librarians to manage the book inventory more efficiently. I'm also exploring various technologies and frameworks such as React, Node.js, and MongoDB to improve my skills as a developer.
 
-### :seedling: # What I'm learning 
+### :seedling: What I'm learning 
 As a software developer, I believe in continuous learning and improvement. Currently, I'm learning more about machine learning and artificial intelligence to incorporate these technologies into my future projects. I'm also taking courses in cybersecurity to improve my understanding of security best practices.
 
-### :speech_balloon: # Ask me about
+### :speech_balloon: Ask me about
 If you have any questions about my projects, my experience, or my development philosophy, feel free to ask me! I'm always happy to chat about software development and technology in general.
 
-### :email: # How to reach me
+### :email: How to reach me
 You can reach me through my email at tonycomputers6@gmail.com. You can also connect with me on twitter @Anthony11hub, where I share updates on my projects and share interesting articles on software development.
 
-### :zap: # Fun Fact
+### :zap: Fun Fact
 When I'm not coding, I love to play call of duty mobile, watch Anime and explore new hiking trails. I believe in maintaining a healthy work-life balance to ensure maximum productivity and creativity.
 
-Thanks for checking out my profile! I look forward to connecting with you and collaborating on exciting software projects.
+
 
 
 ### :hammer_and_wrench:Technology Stack :
@@ -77,5 +77,6 @@ Thanks for checking out my profile! I look forward to connecting with you and co
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anthony11-hub&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+Thanks for checking out my profile! I look forward to connecting with you and collaborating on exciting software projects.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony11-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
