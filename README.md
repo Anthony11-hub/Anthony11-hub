@@ -20,9 +20,9 @@
   </h1>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 [![github](https://img.shields.io/github/followers/Anthony11-hub?logo=github&style=plastic)](https://github.com/Anthony11-hub?tab=followers)
 
@@ -40,7 +40,7 @@ As a software developer, I believe in continuous learning and improvement. Curre
 ### :speech_balloon: Ask me about
 If you have any questions about my projects, my experience, or my development philosophy, feel free to ask me! I'm always happy to chat about software development and technology in general.
 
-### :email: How to reach me
+### :mailbox_with_no_mail: How to reach me
 You can reach me through my email at tonycomputers6@gmail.com. You can also connect with me on twitter @Anthony11hub, where I share updates on my projects and share interesting articles on software development.
 
 ### :zap: Fun Fact
@@ -49,7 +49,7 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 
 
 
-### :hammer_and_wrench:Technology Stack :
+### :hammer_and_wrench: Technology Stack :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
