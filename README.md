@@ -50,6 +50,10 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 
 
 ### :coffee: Languages & Libraries :
+
+![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-white?logo=jquery&logoColor=0078d4&style=for-the-badge)
+
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus"/>
