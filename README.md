@@ -51,10 +51,10 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 
 ### :coffee: Languages & Libraries :
 
-![HTML](https://img.shields.io/badge/HTML-white?logo=html&logoColor=orange&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS-white?logo=css&logoColor=blue&style=for-the-badge)
+![HTML](https://img.shields.io/badge/Html-white?logo=html&logoColor=orange&style=for-the-badge)
+![CSS](https://img.shields.io/badge/Css-white?logo=css&logoColor=blue&style=for-the-badge)
 ![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-white?logo=react&logoColor=8d8cdf&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&logoColor=8d8cdf&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-white?logo=jquery&logoColor=0078d4&style=for-the-badge)
 ![React](https://img.shields.io/badge/React.JS-blue?logo=react&logoColor=cyan&style=for-the-badge)
 ![Node](https://img.shields.io/badge/Node.JS-039d63?logo=node.js&logoColor=white&style=for-the-badge)
@@ -62,36 +62,36 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-white?logo=flask&logoColor=black&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-6a73b6?logo=php&logoColor=white&style=for-the-badge)
-![Mysql](https://img.shields.io/badge/Mysql-blue6?logo=mysql&logoColor=white&style=for-the-badge)
-![Mongodb](https://img.shields.io/badge/Mongodb-white?logo=php&logoColor=green&style=for-the-badge)
+![Mysql](https://img.shields.io/badge/Mysql-white?logo=mysql&logoColor=blue&style=for-the-badge)
+![Mongodb](https://img.shields.io/badge/Mongodb-white?logo=mongodb&logoColor=153462&style=for-the-badge)
 
 
 ### :wrench: Tools :
 
 ![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-8d8cdf?logo=linux&logoColor=4666ff&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-grey?logo=git&logoColor=orange&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?logo=jupyter&logoColor=orange&style=for-the-badge)
-![Anaconda](https://img.shields.io/badge/Anaconda-white?logo=anaconda&logoColor=green&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-black?logo=postman&logoColor=orange&style=for-the-badge)
-![Jetbrains](https://img.shields.io/badge/Jetbrains-white?logo=jetbrains&logoColor=orange&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-orange?logo=figma&logoColor=purple&style=for-the-badge)
+![Anaconda](https://img.shields.io/badge/Anaconda-white?logo=anaconda&logoColor=green&style=for-the-badge)
+![Jetbrains](https://img.shields.io/badge/Jetbrains-white?logo=jetbrains&logoColor=black&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-blue?logo=figma&logoColor=orange&style=for-the-badge)
 
 
 ### :fire: My Stats :
-<div display="inline-block">
-  <p>
+
+  <p >
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="495px" src="https://github-readme-stats.vercel.app/api?username=Anthony11-hub&show_icons=true&title_color=FF4747&icon_color=00B0FF&text_color=C9D1D9&border_color=151B26&bg_color=0B0E14&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&cache_seconds=7200&hide=contribs" alt="GitHub Stats">
   </a>
 </p>
 
-<p>
+<p >
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Anthony11-hub&background=0B0E14&border=151B26&stroke=151B26&dates=3B4C6B&sideNums=00B0FF&sideLabels=00B0FF&currStreakNum=C9D1D9&ring=FF4747&fire=FF4747&currStreakLabel=FF4747" alt="Olivér's GitHub Streak">
   </a>
 </p>
-</div>
+
 
 
 
