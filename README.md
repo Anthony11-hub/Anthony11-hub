@@ -57,7 +57,7 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 ![React](https://img.shields.io/badge/React.JS-blue?logo=react&logoColor=cyan&style=for-the-badge)
 ![Node](https://img.shields.io/badge/Node.JS-68A063?logo=node.js&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-grey?logo=firebase&logoColor=orange&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-FFE873?logo=python&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-FFE873?logo=python&logoColor=blue&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-white?logo=flask&logoColor=black&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-6a73b6?logo=php&logoColor=white&style=for-the-badge)
 ![Mysql](https://img.shields.io/badge/Mysql-white?logo=mysql&logoColor=blue&style=for-the-badge)
@@ -74,6 +74,7 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 ![Anaconda](https://img.shields.io/badge/Anaconda-white?logo=anaconda&logoColor=green&style=for-the-badge)
 ![Jetbrains](https://img.shields.io/badge/Jetbrains-white?logo=jetbrains&logoColor=black&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-FF7F50?logo=figma&logoColor=0ACF83&style=for-the-badge)
+![Xampp](https://img.shields.io/badge/Xampp-333333?logo=xampp&logoColor=0073AA&style=for-the-badge)
 
 
 ### :fire: My Stats :
