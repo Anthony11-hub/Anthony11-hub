@@ -55,13 +55,13 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&logoColor=8d8cdf&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-white?logo=jquery&logoColor=0078d4&style=for-the-badge)
 ![React](https://img.shields.io/badge/React.JS-blue?logo=react&logoColor=cyan&style=for-the-badge)
-![Node](https://img.shields.io/badge/Node.JS-039d63?logo=node.js&logoColor=white&style=for-the-badge)
+![Node](https://img.shields.io/badge/Node.JS-68A063?logo=node.js&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-grey?logo=firebase&logoColor=orange&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-white?logo=flask&logoColor=black&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-6a73b6?logo=php&logoColor=white&style=for-the-badge)
 ![Mysql](https://img.shields.io/badge/Mysql-white?logo=mysql&logoColor=blue&style=for-the-badge)
-![Mongodb](https://img.shields.io/badge/Mongodb-FF00FF?logo=mongodb&logoColor=3FA037&style=for-the-badge)
+![Mongodb](https://img.shields.io/badge/Mongodb-white?logo=mongodb&logoColor=3FA037&style=for-the-badge)
 
 
 ### :wrench: Tools :
