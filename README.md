@@ -75,6 +75,12 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 ### :wrench: Tools :
 
 ![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/Atom-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/Git-orange?logo=git&logoColor=4666ff&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode"/>
@@ -88,11 +94,7 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/0l1v3rr/github-readme-tech-stack">
-    <img width="495px" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=Anthony11-hub&line1=react,react,2e72bc;tailwindcss,tailwind,15b4c1;typescript,typescript,2d79c7;&line2=express,express.js,5ccfee;node.js,node.js,539e43;go,golang,00add8;" alt="My Tech Stack" />
-  </a>
-</p>
+### :fire: My Stats :
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -106,10 +108,6 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
   </a>
 </p>
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anthony11-hub&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 Thanks for checking out my profile! I look forward to connecting with you and collaborating on exciting software projects.
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony11-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
