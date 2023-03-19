@@ -51,8 +51,6 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 
 ### :coffee: Languages & Libraries :
 
-![HTML](https://img.shields.io/badge/Html-white?logo=html&logoColor=orange&style=for-the-badge)
-![CSS](https://img.shields.io/badge/Css-white?logo=css&logoColor=blue&style=for-the-badge)
 ![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&logoColor=8d8cdf&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-white?logo=jquery&logoColor=0078d4&style=for-the-badge)
@@ -63,7 +61,7 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 ![Flask](https://img.shields.io/badge/Flask-white?logo=flask&logoColor=black&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-6a73b6?logo=php&logoColor=white&style=for-the-badge)
 ![Mysql](https://img.shields.io/badge/Mysql-white?logo=mysql&logoColor=blue&style=for-the-badge)
-![Mongodb](https://img.shields.io/badge/Mongodb-white?logo=mongodb&logoColor=153462&style=for-the-badge)
+![Mongodb](https://img.shields.io/badge/Mongodb-FF00FF?logo=mongodb&logoColor=3FA037&style=for-the-badge)
 
 
 ### :wrench: Tools :
@@ -75,7 +73,7 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 ![Postman](https://img.shields.io/badge/Postman-black?logo=postman&logoColor=orange&style=for-the-badge)
 ![Anaconda](https://img.shields.io/badge/Anaconda-white?logo=anaconda&logoColor=green&style=for-the-badge)
 ![Jetbrains](https://img.shields.io/badge/Jetbrains-white?logo=jetbrains&logoColor=black&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-blue?logo=figma&logoColor=orange&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-FF7F50?logo=figma&logoColor=0ACF83&style=for-the-badge)
 
 
 ### :fire: My Stats :
