@@ -57,7 +57,7 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 ![React](https://img.shields.io/badge/React.JS-blue?logo=react&logoColor=cyan&style=for-the-badge)
 ![Node](https://img.shields.io/badge/Node.JS-68A063?logo=node.js&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-grey?logo=firebase&logoColor=orange&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-FFE873?logo=python&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-white?logo=flask&logoColor=black&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-6a73b6?logo=php&logoColor=white&style=for-the-badge)
 ![Mysql](https://img.shields.io/badge/Mysql-white?logo=mysql&logoColor=blue&style=for-the-badge)
@@ -67,7 +67,7 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 ### :wrench: Tools :
 
 ![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-E95420?logo=linux&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-grey?logo=git&logoColor=orange&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?logo=jupyter&logoColor=orange&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-black?logo=postman&logoColor=orange&style=for-the-badge)
