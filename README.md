@@ -41,7 +41,7 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 
 
 
-### :coffee: Languages & Libraries :
+### :coffee: Technology stack :
 
 ![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&logoColor=8d8cdf&style=for-the-badge)
