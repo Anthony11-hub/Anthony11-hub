@@ -71,7 +71,7 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 
 ### :fire: My Stats :
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony11-hub&show_icons=true&theme=radical)
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony11-hub&show_icons=true&theme=dracula)
 <!--   <p >
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="495px" src="https://github-readme-stats.vercel.app/api?username=Anthony11-hub&show_icons=true&title_color=FF4747&icon_color=00B0FF&text_color=C9D1D9&border_color=151B26&bg_color=0B0E14&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&cache_seconds=7200&hide=contribs" alt="GitHub Stats">
