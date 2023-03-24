@@ -73,7 +73,7 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 
 <p >
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="495px" src="https://github-readme-stats.vercel.app/api?username=Anthony11-hub&show_icons=true&title_color=FF4747&icon_color=00B0FF&text_color=C9D1D9&border_color=151B26&bg_color=0B0E14&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&cache_seconds=7200&hide=contribs" alt="GitHub Stats">
+    <img align="center" width="495px" src="https://github-readme-stats.vercel.app/api?username=Anthony11-hub&show_icons=true&title_color=FF4747&icon_color=00B0FF&text_color=C9D1D9&border_color=151B26&bg_color=0B0E14&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&cache_seconds=7200&hide=contribs" alt="GitHub Stats">
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Anthony11-hub&background=0B0E14&border=151B26&stroke=151B26&dates=3B4C6B&sideNums=00B0FF&sideLabels=00B0FF&currStreakNum=C9D1D9&ring=FF4747&fire=FF4747&currStreakLabel=FF4747" alt="Anthony's GitHub Streak">
