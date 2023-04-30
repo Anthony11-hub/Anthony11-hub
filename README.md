@@ -21,10 +21,10 @@
 </div>
 
 ### :man_technologist: About Me:
-I'm a software developer currently finishing my degree in Computer Science at Chuka University in Kenya. I'm passionate about building software solutions that solve real-world problems and help make people's lives easier. With my skills in programming languages such as Java, Python, and JavaScript, I am committed to creating innovative and efficient software that meets the needs of users. Whether it's developing web applications, mobile apps, or desktop software, I am dedicated to delivering high-quality solutions that make a positive impact
+I'm a software developer passionate about building software solutions that solve real-world problems and help make people's lives easier. With my skills in programming languages such as Java, Python, and JavaScript, I am committed to creating innovative and efficient software that meets the needs of users. Whether it's developing web applications, mobile apps, or desktop software, I am dedicated to delivering high-quality solutions that make a positive impact
 
 ### :telescope: What I'm working on
-Currently, I'm working on a project to develop a web application that helps students gain access to books more easily and efficiently while enabling librarians to manage the book inventory more efficiently. I'm also exploring various technologies and frameworks such as React, Node.js, and MongoDB to improve my skills as a developer.
+Currently, I'm working on a project to develop an ecommerce website. I'm also exploring various technologies and frameworks such as React, Node.js, and MongoDB to improve my skills as a developer.
 
 ### :seedling: What I'm learning 
 As a software developer, I believe in continuous learning and improvement. Currently, I'm learning more about machine learning and artificial intelligence to incorporate these technologies into my future projects. I'm also taking courses in cybersecurity to improve my understanding of security best practices.
