@@ -60,5 +60,5 @@ When I'm not coding, I love to play call of duty mobile, watch Anime and explore
 ![Figma](https://img.shields.io/badge/Figma-FF7F50?logo=figma&logoColor=0ACF83&style=for-the-badge)
 ![Xampp](https://img.shields.io/badge/Xampp-333333?logo=xampp&logoColor=0073AA&style=for-the-badge)
 
-Thanks for checking out my profile! I look forward to connecting with you and collaborating on exciting software projects.
+Thanks for checking out my profile!
 
