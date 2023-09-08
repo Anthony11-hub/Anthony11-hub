@@ -9,25 +9,23 @@
     <a href="https://twitter.com/Anthony11hub">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-
   </div>
   <img src="https://komarev.com/ghpvc/?username=Anthony11-hub&style=flat-square&color=blue" alt=""/>
   <a href="https://wakatime.com/@8d976067-8545-4562-9c29-262e864a5427"><img src="https://wakatime.com/badge/user/8d976067-8545-4562-9c29-262e864a5427.svg" alt="Total time coded since Aug 1 2022" /></a>
   
   <h1>
     Hey there, I'm Anthony Mwaura :wave:
-    <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> -->
   </h1>
 </div>
 
 ### :man_technologist: About Me:
-I'm a software developer passionate about building software solutions that solve real-world problems and help make people's lives easier. With my skills in programming languages such as Java, Python, and JavaScript, I am committed to creating innovative and efficient software that meets the needs of users. Whether it's developing web applications, mobile apps, or desktop software, I am dedicated to delivering high-quality solutions that make a positive impact
+I'm a software developer passionate about building software solutions that solve real-world problems and help make people's lives easier. With my skills in programming languages such as JavaScript, PHP and python I am committed to creating innovative and efficient software that meets the needs of users. Whether it's developing web applications, mobile apps, or desktop software, I am dedicated to delivering high-quality solutions that make a positive impact.
 
 ### :telescope: What I'm working on
-Currently, I'm working on a project to develop an ecommerce website. I'm also exploring various technologies and frameworks such as React, Node.js, and MongoDB to improve my skills as a developer.
+Currently, I'm working on a project to develop an ecommerce website. I'm also exploring various technologies such as Node.js, MongoDB and Mysql to improve my skills as a developer.
 
 ### :seedling: What I'm learning 
-As a software developer, I believe in continuous learning and improvement. Currently, I'm learning more about machine learning and artificial intelligence to incorporate these technologies into my future projects. I'm also taking courses in cybersecurity to improve my understanding of security best practices.
+As a software developer, I believe in continuous learning and improvement. Currently, I'm learning more about Database Programming. I'm also taking courses in website security to improve my understanding of security best practices.
 
 ### :speech_balloon: Ask me about
 If you have any questions about my projects, my experience, or my development philosophy, feel free to ask me! I'm always happy to chat about software development and technology in general.
@@ -37,9 +35,6 @@ You can reach me through my email at tonycomputers6@gmail.com. You can also conn
 
 ### :zap: Fun Fact
 When I'm not coding, I love to play call of duty mobile, watch Anime and explore new hiking trails. I believe in maintaining a healthy work-life balance to ensure maximum productivity and creativity.
-
-
-
 
 ### :coffee: Technology stack :
 
