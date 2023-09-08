@@ -16,22 +16,16 @@
 </div>
 
 ### :man_technologist: About Me:
-I'm a software developer passionate about building software solutions that solve real-world problems and help make people's lives easier. With my skills in programming languages such as JavaScript, PHP and python I am committed to creating innovative and efficient software that meets the needs of users. Whether it's developing web applications, mobile apps, or desktop software, I am dedicated to delivering high-quality solutions that make a positive impact.
+I'm a software developer passionate about building software solutions that solve real-world problems and help make people's lives easier. With my skills in JavaScript, Node js and Mysql, I am committed to creating innovative and efficient software that meets the needs of users.
 
 ### :telescope: What I'm working on
-Currently, I'm working on a project to develop an ecommerce website. I'm also exploring various technologies such as Node.js, MongoDB and Mysql to improve my skills as a developer.
+Currently, I'm working on a project to develop a real-world ecommerce website. With this, I'm exploring technologies such as Node.js and Mysql.
 
 ### :seedling: What I'm learning 
-As a software developer, I believe in continuous learning and improvement. Currently, I'm learning more about Database Programming. I'm also taking courses in website security to improve my understanding of security best practices.
-
-### :speech_balloon: Ask me about
-If you have any questions about my projects, my experience, or my development philosophy, feel free to ask me! I'm always happy to chat about software development and technology in general.
+I'm learning more about Relational Database Programming and taking courses in website security.
 
 ### :mailbox_with_no_mail: How to reach me
-You can reach me through my email at tonycomputers6@gmail.com. You can also connect with me on twitter @Anthony11hub, where I share updates on my projects and share interesting articles on software development.
-
-### :zap: Fun Fact
-When I'm not coding, I love to play call of duty mobile, watch Anime and explore new hiking trails. I believe in maintaining a healthy work-life balance to ensure maximum productivity and creativity.
+You can reach me through my email at tonycomputers6@gmail.com or on twitter @Anthony11hub.
 
 ### :coffee: Tech stack :
 
