@@ -19,7 +19,7 @@
 I'm a software developer passionate about building software solutions that solve real-world problems and help make people's lives easier. With my skills in JavaScript, Node js and Mysql, I am committed to creating innovative and efficient software that meets the needs of users.
 
 ### :telescope: What I'm working on
-Currently, I'm working on a project to develop a real-world ecommerce website. With this, I'm exploring technologies such as Node.js and Mysql.
+Currently, I'm collaborating on a project to develop a classifieds site that will enable easier selling and buying of goods and services online.
 
 ### :seedling: What I'm learning 
 I'm learning more about Relational Database Programming and taking courses in website security.
