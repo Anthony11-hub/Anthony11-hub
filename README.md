@@ -15,7 +15,10 @@
   </h1>
 </div>
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"/>
+<div style="text-align:center;">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"/>  
+</div>
+
 
 ### :man_technologist: About Me:
 I'm a software developer passionate about building software solutions that solve real-world problems and help make people's lives easier. With my skills in JavaScript, Node js and Mysql, I am committed to creating innovative and efficient software that meets the needs of users.
