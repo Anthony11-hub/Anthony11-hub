@@ -15,7 +15,7 @@
   </h1>
 </div>
 
-[<iframe src="https://giphy.com/embed/wAqqkYmOyEgkg6QzG8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Veeam-it-programming-veeam-wAqqkYmOyEgkg6QzG8">via GIPHY</a></p>](https://media.giphy.com/media/wAqqkYmOyEgkg6QzG8/giphy.gif)
+![Alt Text]([https://example.com/your-image.gif](https://media.giphy.com/media/wAqqkYmOyEgkg6QzG8/giphy.gif))
 
 ### :man_technologist: About Me:
 I'm a software developer passionate about building software solutions that solve real-world problems and help make people's lives easier. With my skills in JavaScript, Node js and Mysql, I am committed to creating innovative and efficient software that meets the needs of users.
