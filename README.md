@@ -15,22 +15,17 @@
   </h1>
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"/>  
 </div>
+-->
 
 
 ### :man_technologist: About Me:
-I'm a software developer passionate about building software solutions that solve real-world problems and help make people's lives easier. With my skills in JavaScript, Node js and Mysql, I am committed to creating innovative and efficient software that meets the needs of users.
-
-### :telescope: What I'm working on
-Currently, I'm collaborating on a project to develop a classifieds site that will enable easier selling and buying of goods and services online.
-
-### :seedling: What I'm learning 
-I'm learning more about Relational Database Programming and taking courses in website security.
+I'm a Freelance software developer crafting captivating online experiences for businesses.
 
 ### :mailbox_with_no_mail: How to reach me
-You can reach me through my email at tonycomputers6@gmail.com or on twitter @Anthony11hub.
+You can reach me through my email at tonycomputers6@gmail.com.
 
 ### :coffee: Tech stack :
 
