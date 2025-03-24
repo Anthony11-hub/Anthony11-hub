@@ -31,6 +31,7 @@ You can reach me through my email at tonycomputers6@gmail.com.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue&style=for-the-badge)
 ![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-gray?logo=Go&logoColor=blue&style=for-the-badge)
 ![Shadcn](https://img.shields.io/badge/Shadcn-black?logo=shadcn&logoColor=8d8cdf&style=for-the-badge)
 ![React](https://img.shields.io/badge/React.JS-blue?logo=react&logoColor=cyan&style=for-the-badge)
 ![Nextjs](https://img.shields.io/badge/Nextjs-black?logo=nextjs&logoColor=white&style=for-the-badge)
